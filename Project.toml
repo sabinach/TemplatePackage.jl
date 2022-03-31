@@ -1,0 +1,11 @@
+name = "TemplatePackage"
+uuid = "c38e6a9c-3619-484a-91a9-547a147a5b06"
+version = "0.0.1"
+
+[dep]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.7"
+
+[extras]
